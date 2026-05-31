@@ -1,0 +1,235 @@
+(footprint "SW_TL3365AF180QG"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.635 -3.429 0)
+		(layer "F.SilkS")
+		(uuid "c8f3c5ae-c842-4ac4-844e-c452d9300170")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_TL3365AF180QG"
+		(at 10.414 2.921 0)
+		(layer "F.Fab")
+		(uuid "34a0c3cd-243a-4904-8f77-8ae6494dcd21")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7ae7124-9a6b-4c91-857f-095584cb4843")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "662b954c-55a4-49cc-ba97-48ae7f743e75")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.1 -0.3865)
+		(end -2.1 0.3865)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d579ee88-e9e2-4b1c-8784-60aceef0c7ff")
+	)
+	(fp_line
+		(start -1.4365 1.6)
+		(end 1.4365 1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "26759f65-66cc-4cf8-8d67-e11d5bb5af36")
+	)
+	(fp_line
+		(start 1.4365 -1.6)
+		(end -1.4365 -1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6a7ae77d-2020-46cd-bfb6-67708cfe5f01")
+	)
+	(fp_line
+		(start 2.1 0.3865)
+		(end 2.1 -0.3865)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9362a353-4ecf-48dd-b2e3-3697a4500d07")
+	)
+	(fp_circle
+		(center -3.23 1.075)
+		(end -3.13 1.075)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7e549a87-7f2c-4555-8a18-7aa05dc87409")
+	)
+	(fp_line
+		(start -3 -1.85)
+		(end 3 -1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7940709d-d664-4602-b991-2ac0c3ed8f4b")
+	)
+	(fp_line
+		(start -3 1.85)
+		(end -3 -1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d4b98ac0-f768-4325-9d28-00fd77ec531a")
+	)
+	(fp_line
+		(start 3 -1.85)
+		(end 3 1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e2728769-3ffa-45c1-89db-8fd9eb52975e")
+	)
+	(fp_line
+		(start 3 1.85)
+		(end -3 1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "26da7e4b-ef61-4596-b993-835083c3678c")
+	)
+	(fp_line
+		(start -2.1 -1.6)
+		(end 2.1 -1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0fadb630-43d2-4df1-a519-2c733540f034")
+	)
+	(fp_line
+		(start -2.1 1.6)
+		(end -2.1 -1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5e5831ec-30c1-44de-81de-aae75e2a5e7b")
+	)
+	(fp_line
+		(start 2.1 -1.6)
+		(end 2.1 1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e559bc3a-5e6a-461a-b2da-3ce30f1c9393")
+	)
+	(fp_line
+		(start 2.1 1.6)
+		(end -2.1 1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e49cfab9-3a33-49ab-8af3-d661f3e99578")
+	)
+	(fp_circle
+		(center -3.23 1.075)
+		(end -3.13 1.075)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a9b47264-9c7f-442b-9043-e174a2b4cdd9")
+	)
+	(pad "1" smd rect
+		(at -2.25 1.075)
+		(size 1 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "23987e90-9579-4ba9-9d03-f40a555b091d")
+	)
+	(pad "2" smd rect
+		(at 2.25 1.075)
+		(size 1 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "931e4489-8d54-40f0-a3eb-42a78af8a0fc")
+	)
+	(pad "3" smd rect
+		(at -2.25 -1.075)
+		(size 1 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "8cfb8059-5e69-479e-9568-2e99fd4a9e59")
+	)
+	(pad "4" smd rect
+		(at 2.25 -1.075)
+		(size 1 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "dc7d27df-3ecb-4461-b7b9-23b7a2047a32")
+	)
+	(embedded_fonts no)
+	(model "/Users/afan/Documents/UNSW/2025 T2/ELEC3117/fuckass downloads/TL3365AF180QG/TL3365AF180QG.step"
+		(offset
+			(xyz 0 0 0.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
